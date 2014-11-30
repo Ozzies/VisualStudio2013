@@ -1,0 +1,16 @@
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\bin\Debug\WpfApplication1asd.exe
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\bin\Debug\WpfApplication1asd.pdb
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\obj\Debug\WpfApplication1asd.csprojResolveAssemblyReference.cache
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\obj\Debug\WpfApplication1asd.Form1.resources
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\obj\Debug\WpfApplication1asd.Properties.Resources.resources
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\obj\Debug\WpfApplication1asd.csproj.GenerateResource.Cache
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\obj\Debug\WpfApplication1asd.exe
+D:\Programming\C#\WpfApplication1asd\WpfApplication1asd\obj\Debug\WpfApplication1asd.pdb
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.exe
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.pdb
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\bin\Debug\WpfApplication1asd.exe
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\bin\Debug\WpfApplication1asd.pdb
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.Form1.resources
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.csproj.GenerateResource.Cache

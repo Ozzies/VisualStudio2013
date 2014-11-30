@@ -1,0 +1,6 @@
+E:\Visual Studio 2013\Projects\Kurs\Kurs\bin\Debug\Kurs.exe.config
+E:\Visual Studio 2013\Projects\Kurs\Kurs\bin\Debug\Kurs.exe
+E:\Visual Studio 2013\Projects\Kurs\Kurs\bin\Debug\Kurs.pdb
+E:\Visual Studio 2013\Projects\Kurs\Kurs\obj\Debug\Kurs.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Kurs\Kurs\obj\Debug\Kurs.exe
+E:\Visual Studio 2013\Projects\Kurs\Kurs\obj\Debug\Kurs.pdb
