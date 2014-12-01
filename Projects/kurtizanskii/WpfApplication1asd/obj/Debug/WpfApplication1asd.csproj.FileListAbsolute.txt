@@ -14,3 +14,11 @@ E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfAppl
 E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.Form1.resources
 E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.Properties.Resources.resources
 E:\Visual Studio 2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.csproj.GenerateResource.Cache
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\bin\Debug\WpfApplication1asd.exe
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\bin\Debug\WpfApplication1asd.pdb
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.csprojResolveAssemblyReference.cache
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.Form1.resources
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.Properties.Resources.resources
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.csproj.GenerateResource.Cache
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.exe
+H:\VisualStudio2013\Projects\kurtizanskii\WpfApplication1asd\obj\Debug\WpfApplication1asd.pdb

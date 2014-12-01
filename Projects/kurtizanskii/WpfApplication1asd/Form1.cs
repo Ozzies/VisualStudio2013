@@ -11,34 +11,38 @@ namespace WpfApplication1asd
 {
     public partial class Form1 : Form
     {
-        TextBox[] kurtka = new TextBox[100];
-        int z1 = 40;
+        TextBox[] mass = new TextBox[100];
+        int z1 = 140;
         int z2 = 40;
         public Form1()
         {
             InitializeComponent();
-             
-            
+            label1.Hide();
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             this.SuspendLayout();
-            for (int i = 1; i <= (int.Parse(textBox2.Text)) * 5-5; i++)
+            for (int i = 1; i <= (int.Parse(textBox0.Text)) * 5; i++)
             {
-                kurtka[i] = new TextBox();
-                kurtka[i].Location = new System.Drawing.Point(z1, z2);
-                kurtka[i].Name = "kurtka" + i.ToString();
-                kurtka[i].Size = new System.Drawing.Size(100, 20);
-                
-                z1 += 110;
-                if (i % 5 == 0) { z2 += 30; z1 = 40; }
+                mass[i] = new TextBox
+                {
+                    Location = new Point(z1, z2),
+                    Name = "tt" + i,
+                    Size = new Size(30, 20)
+                };
+                z1 += 40;
+                if (i % int.Parse(textBox0.Text)== 0) { z2 += 30; z1 = 140; }
             }
-            this.Controls.AddRange(kurtka);
+            this.Controls.AddRange(mass);
             this.PerformLayout();
-            kurtka[1].Text = "asdasd";
             button1.Hide();
-            textBox2.Hide();
+            textBox0.Hide();
+            
+            label1.Text = "222";
+            label1.Show();
         }
 
 
